@@ -12,7 +12,7 @@
                 <h1>{{item.name}}</h1>
                 <h2>${{item.preco}}</h2>
                 <p>{{item.descricao}}</p>
-                <button ng-show="item.btnEnabled"> Add no carrinho </button>
+                <button ng-show="item.btnEnabled"> Add no carrinho +</button>
             </div>
             
         </div>
